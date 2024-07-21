@@ -1,3 +1,5 @@
+# 사람아니야
+
 def print_hi(name):
     s = f'Hi, {name}'
     print(s)
